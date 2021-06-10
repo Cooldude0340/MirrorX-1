@@ -31,10 +31,8 @@ jobs:
           HD_ENV: ${{secrets.ENV}}
           HD_USER_SESSION_STRING: ${{secrets.USER_SESSION_STRING}}
           HD_DOWNLOAD_DIR: ${{secrets.DOWNLOAD_DIR}}
-          HD_USE_SERVICE_ACCOUNTS: ${{secrets.USE_SERVICE_ACCOUNTS}}
-          HD_USER_SESSION_STRING: ${{secrets.USER_SESSION_STRING}}
-          
-          
+        
+      
           
           
           
